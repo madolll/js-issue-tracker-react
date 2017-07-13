@@ -1,4 +1,10 @@
-<!-- step 1 - npm install -g create-react-app -->
+<!-- 
+
+step 1 - git clone git@github.com:madolll/js-issue-tracker-react.git
+step 2 - npm install
+step 3 - npm start
+
+-->
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
